@@ -1,2 +1,2 @@
 # Arduino-Documents
-Documentation regarding Arduino projects and hardware in general
+Documentation regarding my Arduino projects and hardware in general
